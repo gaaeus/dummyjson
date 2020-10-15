@@ -1,0 +1,22 @@
+{
+  "news": [
+    {
+      "newsId": "1",
+      "title": "Nouvelle 1",
+      "description": "Celle-ci c'est une nouvelle",
+      "date": "15/10/2020"
+    },
+    {
+      "newsId": "2",
+      "title": "Nouvelle 2",
+      "description": "Celle-ci c'est une nouvelle",
+      "date": "15/10/2020"
+    },
+    {
+      "newsId": "3",
+      "title": "Nouvelle 3",
+      "description": "Celle-ci c'est une nouvelle",
+      "date": "15/10/2020"
+    }
+  ]
+}
