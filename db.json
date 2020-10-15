@@ -1,22 +1,29 @@
 {
   "news": [
     {
-      "newsId": "1",
-      "title": "Nouvelle 1",
-      "description": "Celle-ci c'est une nouvelle",
-      "date": "15/10/2020"
+      "description": "Celle-ci c'est une nouvelle 1",
+      "date": "15",
+      "monthyear": "06.2020"
     },
     {
-      "newsId": "2",
-      "title": "Nouvelle 2",
-      "description": "Celle-ci c'est une nouvelle",
-      "date": "15/10/2020"
+      "description": "Celle-ci c'est une nouvelle 2",
+      "date": "20",
+      "monthyear": "09.2020"
     },
     {
-      "newsId": "3",
-      "title": "Nouvelle 3",
-      "description": "Celle-ci c'est une nouvelle",
-      "date": "15/10/2020"
+      "description": "Celle-ci c'est la derniere nouvelle visible",
+      "date": "25",
+      "monthyear": "10.2020"
+    },
+    {
+      "description": "Celle-ci c'est encore une nouvelle visible",
+      "date": "26",
+      "monthyear": "10.2020"
+    },
+    {
+      "description": "Celle-ci c'est en plus une nouvelle visible",
+      "date": "27",
+      "monthyear": "10.2020"
     }
   ]
 }
